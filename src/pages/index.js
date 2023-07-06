@@ -7,7 +7,7 @@ import styles from "./index.module.css";
 
 const description =
   "A collection of fantastical films you now get to enjoy because of peer pressure.";
-const title = "Josh's Movies!";
+const title = "Jason's Movies!";
 
 export default function Home({ movies }) {
   return (

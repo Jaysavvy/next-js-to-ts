@@ -10,10 +10,8 @@ export function Footer() {
         rel="noopener noreferrer"
         target="_blank"
       >
-        Powered by{" "}
-        <span className={styles.logo}>
-          <Image alt="Josh Goldberg" height={48} src="/josh.jpg" width={48} />
-        </span>
+        Powered by{" "} Yo Boy J
+        
         {" and "}
         <span className={styles.logo}>
           <Image
